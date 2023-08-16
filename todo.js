@@ -5,6 +5,8 @@ const clearInputBtn = document.getElementById('clear-input');
 const toDoList = document.getElementById('list');
 
 
+
+
 newToDoInput.style.textDecoration
 
 
