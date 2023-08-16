@@ -1,0 +1,17 @@
+
+
+
+
+#list {
+    margin-top: 50px;
+}
+
+.list--item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.list--item button {
+    height: 30px;
+    width: 30px;
+}
